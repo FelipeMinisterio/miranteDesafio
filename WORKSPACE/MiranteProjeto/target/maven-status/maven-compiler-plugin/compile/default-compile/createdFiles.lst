@@ -1,0 +1,5 @@
+br\com\service\OperadorService.class
+br\com\modelo\Perfil.class
+br\com\config\ApplicationConfig.class
+br\com\modelo\Operador.class
+br\com\util\HibernateUtil.class
